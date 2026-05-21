@@ -126,5 +126,5 @@ streamlit run app.py
 |---|---|
 | member 1 | url |
 | member 2 | url |
-| member 3 | url |
+| Harichandra Thakur | https://github.com/harriii2 |
 | Prabin Kumar Sah | https://github.com/Praveeen014 |
